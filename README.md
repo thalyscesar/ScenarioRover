@@ -5,10 +5,7 @@
 
 # Seguindo como premissa uma grade um plano cartesinado de coordenada x, y e direcoes norte, sul, leste, oeste 
 
-#Inputs
-
-# A Entrada de dados da aplicação tem como fonte um arquivo de texto chamada PlanPositions.txt
-ali e encontrado todas as informaçoes de input para executar a solução.
+# A Entrada de dados da aplicação tem como fonte um arquivo de texto chamada PlanPositions.txt, ali e encontrado todas as informaçoes de input para executar a solução.
 
 # Foi construido essa aplicação utilizando o padrao de projeto State.
 # Cada letra altera o estado do objeto   
