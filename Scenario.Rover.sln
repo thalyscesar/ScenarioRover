@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scenario.Rover", "Scenario.Rover\Scenario.Rover.csproj", "{FCEAFA4A-FE99-47C7-BBF3-C25EE32D72F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scenario.Rover.Test", "..\..\..\Downloads\mars-rover-problem-master\mars-rover-problem-master\Scenario.Rover.Test\Scenario.Rover.Test.csproj", "{7199DD96-DC51-48DC-8940-4DC4C6E100AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCEAFA4A-FE99-47C7-BBF3-C25EE32D72F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCEAFA4A-FE99-47C7-BBF3-C25EE32D72F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCEAFA4A-FE99-47C7-BBF3-C25EE32D72F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCEAFA4A-FE99-47C7-BBF3-C25EE32D72F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7199DD96-DC51-48DC-8940-4DC4C6E100AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7199DD96-DC51-48DC-8940-4DC4C6E100AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7199DD96-DC51-48DC-8940-4DC4C6E100AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7199DD96-DC51-48DC-8940-4DC4C6E100AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DE1EE16-24EE-4197-ACE4-BB5677D4733B}
+	EndGlobalSection
+EndGlobal
